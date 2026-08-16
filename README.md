@@ -13,3 +13,4 @@ Integrate navigation, perception, localization, and manipulation within a unifie
 ## Proposed system block diagram
 <img width="1030" height="287" alt="System_block_gram" src="https://github.com/user-attachments/assets/775a5ddb-79aa-4d46-b4cf-56633da32e9b" />
 
+
