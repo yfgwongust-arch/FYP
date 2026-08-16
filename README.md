@@ -5,7 +5,7 @@ This project aims to design and build a fully autonomous mobile manipulator, int
 #### Navigation System: 
 Build a SLAM-powered navigation system using LiDAR and depth sensors to map indoor spaces and dodge dynamic obstacles in real-time, achieving satisfactory navigation success across test runs by the end of Semester 1.
 #### Vision Pipeline: 
-Train and deploy a deep-learning vision system (YOLO/CNN-based) that recognizes ≥5 object categories and achieves satisfactory positional accuracy in 3D coordinates by mid-Semester 2.
+Train and deploy a deep-learning vision system (YOLO/CNN-based) that recognizes numerous object categories and achieves satisfactory positional accuracy in 3D coordinates by mid-Semester 2.
 #### Manipulation Control: 
 Engineer a multi-axis robotic arm controller using inverse kinematics (IK) and motion planning to execute autonomous pick-and-place actions by the end of Semester 2.
 #### Autonomous System Integration: 
