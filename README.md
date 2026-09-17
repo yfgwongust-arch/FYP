@@ -10,7 +10,10 @@ Train and deploy a deep-learning vision system (YOLO/CNN-based) that recognizes 
 Engineer a multi-axis robotic arm controller using inverse kinematics (IK) and motion planning to execute autonomous pick-and-place actions by the end of Semester 2.
 #### Autonomous System Integration: 
 Integrate navigation, perception, localization, and manipulation within a unified ROS 2 architecture to enable fully autonomous end-to-end pick-and-place operations without human intervention.
-## Proposed system block diagram
+## Proposed system block diagram 1
 <img width="1030" height="287" alt="System_block_gram" src="https://github.com/user-attachments/assets/775a5ddb-79aa-4d46-b4cf-56633da32e9b" />
+## Proposed system block diagram 2
+<img width="650" height="654" alt="Screenshot 2026-09-17 at 11 39 42 AM" src="https://github.com/user-attachments/assets/3448a2d5-ec9d-4f97-afb8-f557cac39de5" />
+
 
 
